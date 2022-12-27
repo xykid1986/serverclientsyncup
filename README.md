@@ -6,7 +6,7 @@ Just checkout the code and run class DemoGame.java
 
 ![Alt text](demo-snapshot.png?raw=true "Demo")
 
-Use keys A/W/S/D to move the ball of client 1, UP/DOWN/LEFT/RIGHT arrows keys to move the ball of client 2. You can also click on the panel of client 1 and client 2 to the ball to where it is clicked.
+Use keys A/W/S/D to move the ball of client 1, UP/DOWN/LEFT/RIGHT arrows keys to move the ball of client 2. You can also click on the panel of client 1 and client 2 to move the ball to where it is clicked.
 
 You can tune the FPS in BallPanel.java and network delay in MessageService.
 
